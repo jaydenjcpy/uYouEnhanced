@@ -1,3 +1,5 @@
+## Highly Recommend Checking https://github.com/jaydenjcpy/YTPlusYTweaks-Compiled/releases out for better features and less bugs
+
 ## About the future of the uYouEnhanced Project (Updated, June 13, 2025)
 Hey everyone,
 
