@@ -1,4 +1,4 @@
- ## Highly Recommend Checking [YTLitePlusEXTRA](https://github.com/jaydenjcpy/YTLitePlusEXTRA/releases) out for better features and less bugs
+ ## Highly Recommend Checking [YTLitePlusEXTRA](https://github.com/jaydenjcpy/YTLitePlusEXTRA) out for better features and less bugs
 
 ## About the future of the uYouEnhanced Project (Updated, June 13, 2025)
 Hey everyone,
